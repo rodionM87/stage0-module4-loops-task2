@@ -10,5 +10,6 @@ public class FactorialNumbers {
             factorial = factorialAfter * start;
             factorialAfter = factorial;
             System.out.println(factorial);
+        }
     }
 }
