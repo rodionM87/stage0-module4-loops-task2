@@ -5,5 +5,6 @@ public class Multiplication {
         int start = 0;
         while(start <= multiplyByAndToInclusive) {
             System.out.println(start * start);
+        }
     }
 }
