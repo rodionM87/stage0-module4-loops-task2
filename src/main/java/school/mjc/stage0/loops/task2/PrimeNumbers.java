@@ -12,5 +12,6 @@ public class PrimeNumbers {
                 System.out.println(start);
             }
             start++;
+        }
     }
 }
