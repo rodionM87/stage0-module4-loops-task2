@@ -12,7 +12,7 @@ public class PowerOfTwo {
                 System.out.println("too much power");
                 break;
             case 2:
-                while(start <= power) {
+                while(count <= power) {
                     if (mainVar == 1) {
                         System.out.println(mainVar);
                         mainVar = mainVar + 1;
