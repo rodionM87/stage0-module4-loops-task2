@@ -8,7 +8,7 @@ public class PowerOfTwo {
             case 0:
                 System.out.println(1);
                 break;
-            case 1;
+            case 1:
                 System.out.println("too much power");
                 break;
             case 2:
